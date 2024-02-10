@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @loickho
-- I'm a full stack developer specializing in Javascript, Node.js, and React. 
+- 👨‍💻 I'm a full stack developer specializing in Javascript, Node.js, and React.
+- 🌱 Constantly seeking opportunities to expant my knowledge and skills. 
 - 📫 You can reach me via email at lkhodarkovsky@gmail.com or on linkedin at https://www.linkedin.com/in/loickho/. Talk to you soon!
 
 <!---
