@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m @loickho. Welcome to my GitHub profile!
 - 👨‍💻 I'm a full stack developer specializing in JavaScript/TypeScript, Node.js, and React.
-- 🌱 Constantly seeking opportunities to expant my knowledge and skills.
+- 🌱 Constantly seeking opportunities to expand my knowledge and skills.
 - 📫 You can reach me via email at lkhodarkovsky@gmail.com or on <a href="https://www.linkedin.com/in/loickho"> LinkedIn</a> . Talk to you soon!
 
 
