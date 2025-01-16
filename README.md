@@ -1,7 +1,4 @@
 ## 👋 Hi, I’m @loickho. Welcome to my GitHub profile!
-- 📫 You can reach me via email at lkhodarkovsky@gmail.com or on <a href="https://www.linkedin.com/in/loickho"> LinkedIn</a> . Talk to you soon!
-
-
 
 ## Tech Stack
   
